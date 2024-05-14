@@ -1,4 +1,4 @@
 # new
 this is my first git repository
 <br>
-author-Sumila Shakya
+author-Sumi
